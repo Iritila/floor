@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "floor",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 966295,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9841772151898733,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
