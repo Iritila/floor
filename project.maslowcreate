@@ -1,9 +1,8 @@
 {
     "atomType": "Molecule",
-    "name": "floor",
+    "name": "Molecule",
     "x": 0,
     "y": 0,
-    "uniqueID": 966295,
     "ioValues": [],
     "topLevel": true,
     "allAtoms": [
@@ -16,5 +15,7 @@
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
 }
